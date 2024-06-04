@@ -1,0 +1,34 @@
+body{
+    background-color: blue;
+}
+.username{
+    width: 250px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+}
+#email{
+    width: 250px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px 0 10px 0;
+}
+#password{
+    width: 250px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px 0 10px 0;
+}
+#confirm-password{
+    width: 250px;
+    height: 10px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 10px 0 10px 0;
+}
